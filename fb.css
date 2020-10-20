@@ -44,7 +44,7 @@ body{
 
 .body{
     width: 100%;
-    height: 600px;
+    height: 660px;
     background: linear-gradient(white,#D3D8E8);
 
 }
@@ -107,7 +107,7 @@ body{
     font-size: 17px;
     font-weight: bold;
 }
-.date{
+.day{
     border-radius: 2px;
     border-color: mintcream;
     box-sizing: border-box;
